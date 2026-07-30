@@ -7,6 +7,11 @@
      di create-next-app. -->
 
 <p align="center">
+  <img alt="Italiano — versione corrente" src="https://img.shields.io/badge/Italiano-FF6EC7?style=flat-square&labelColor=0d1117" />
+  <a href="README.en.md"><img alt="Read this in English" src="https://img.shields.io/badge/English-30363d?style=flat-square&labelColor=0d1117" /></a>
+</p>
+
+<p align="center">
   <img width="170" alt="Sticker animato di un personaggio che dorme" src="assets/zzz.gif" />
 </p>
 
