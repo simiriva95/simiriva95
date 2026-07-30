@@ -1,5 +1,10 @@
-<!-- GIF in assets/zzz.gif — 498x498, 4 frame, 154KB.
-     Servita dal tuo repo: nessuna dipendenza da Tenor né dal proxy camo. -->
+<!-- ASSET LOCALI (tutto servito dal tuo repo, zero dipendenze esterne):
+       assets/zzz.gif        498x498, 4 frame, 154KB
+       assets/logos/*.png    marchi dei progetti, 256x256
+     snapkit.png è la sua icona vera (build/icon.png del repo).
+     Gli altri sono marchi generati: riusabili come favicon nei
+     rispettivi progetti, dove oggi c̀è ancora quella di default
+     di create-next-app. -->
 
 <p align="center">
   <img width="170" alt="Sticker animato di un personaggio che dorme" src="assets/zzz.gif" />
@@ -17,7 +22,7 @@
 
 ---
 
-## 💤 Chi sono
+## Chi sono
 
 Costruisco interfacce web con focus su architetture component-driven, design system scalabili e performance percepita. Un'interfaccia ben fatta è invisibile quando funziona, e memorabile quando non si limita a farlo.
 
@@ -53,7 +58,7 @@ const simone: Developer = {
 
 ---
 
-## 🧩 Stack
+## Stack
 
 <p align="center">
   <img alt="TypeScript, JavaScript, React, Vue, Next.js, Nuxt, Tailwind, Vite, Node.js, Rust" src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,nuxtjs,tailwind,vite,nodejs,rust&perline=5" />
@@ -61,9 +66,9 @@ const simone: Developer = {
 
 ---
 
-## 🚀 Progetti
+## Progetti
 
-### [snapkit](https://github.com/simiriva95/snapkit)
+### <img width="22" alt="" src="assets/logos/snapkit.png" /> [snapkit](https://github.com/simiriva95/snapkit)
 
 <img alt="Progetto in vetrina" src="https://img.shields.io/badge/%E2%98%85-in%20vetrina-FF6EC7?style=flat-square&labelColor=0d1117" />
 
@@ -75,7 +80,7 @@ const simone: Developer = {
 
 Screenshot tool developer-first con auto-redaction locale dei secrets. Cattura, annota, reda, registra — niente lascia mai il dispositivo.
 
-### [mdm](https://github.com/simiriva95/mdm)
+### <img width="22" alt="" src="assets/logos/mdm.png" /> [mdm](https://github.com/simiriva95/mdm)
 
 <p>
   <img alt="Stelle" src="https://img.shields.io/github/stars/simiriva95/mdm?style=flat-square&labelColor=0d1117&color=FF6EC7&logo=github&logoColor=white" />
@@ -83,11 +88,12 @@ Screenshot tool developer-first con auto-redaction locale dei secrets. Cattura, 
   <img alt="Ultimo commit" src="https://img.shields.io/github/last-commit/simiriva95/mdm?style=flat-square&labelColor=0d1117&color=4FC08D" />
 </p>
 
-<!-- TODO: descrizione. Su GitHub questo repo non ne ha, quindi non
-     l'ho inventata io. Mettila anche nel campo "Description" del
-     repo: alimenta i social preview e la ricerca di GitHub. -->
+Mini downloader configurabile, scritto in Rust. Piccolo e single-purpose.
 
-### [accessibility-auditor](https://github.com/simiriva95/accessibility-auditor)
+<!-- Per il campo "Description" del repo su GitHub (in inglese, come snapkit e orbit):
+     Small configurable downloader written in Rust. -->
+
+### <img width="22" alt="" src="assets/logos/accessibility-auditor.png" /> [accessibility-auditor](https://github.com/simiriva95/accessibility-auditor)
 
 <p>
   <img alt="Stelle" src="https://img.shields.io/github/stars/simiriva95/accessibility-auditor?style=flat-square&labelColor=0d1117&color=FF6EC7&logo=github&logoColor=white" />
@@ -98,7 +104,7 @@ Screenshot tool developer-first con auto-redaction locale dei secrets. Cattura, 
 
 Analizza pagine web e trova problemi WCAG 2.2 (A/AA/AAA) con fix concreti. Contrasti calcolati in modo deterministico, AI opzionale per spiegazioni e codice.
 
-### [orbit](https://github.com/simiriva95/orbit)
+### <img width="22" alt="" src="assets/logos/orbit.png" /> [orbit](https://github.com/simiriva95/orbit)
 
 <p>
   <img alt="Stelle" src="https://img.shields.io/github/stars/simiriva95/orbit?style=flat-square&labelColor=0d1117&color=FF6EC7&logo=github&logoColor=white" />
@@ -108,7 +114,7 @@ Analizza pagine web e trova problemi WCAG 2.2 (A/AA/AAA) con fix concreti. Contr
 
 Prenota una call di 30 minuti su un calendario 3D. Next.js 16 + React Three Fiber + Neon Postgres, disponibilità modellata come regola e non come righe.
 
-### [microcopy-generator](https://github.com/simiriva95/microcopy-generator)
+### <img width="22" alt="" src="assets/logos/microcopy-generator.png" /> [microcopy-generator](https://github.com/simiriva95/microcopy-generator)
 
 <p>
   <img alt="Stelle" src="https://img.shields.io/github/stars/simiriva95/microcopy-generator?style=flat-square&labelColor=0d1117&color=FF6EC7&logo=github&logoColor=white" />
@@ -118,7 +124,7 @@ Prenota una call di 30 minuti su un calendario 3D. Next.js 16 + React Three Fibe
 
 Genera headline, sottotitoli e CTA per landing page in varianti A/B con razionale UX, stili grafici e anteprima hero. Next.js + Groq.
 
-### [keywriter](https://github.com/simiriva95/keywriter)
+### <img width="22" alt="" src="assets/logos/keywriter.png" /> [keywriter](https://github.com/simiriva95/keywriter)
 
 <p>
   <img alt="Stelle" src="https://img.shields.io/github/stars/simiriva95/keywriter?style=flat-square&labelColor=0d1117&color=FF6EC7&logo=github&logoColor=white" />
@@ -132,7 +138,7 @@ Genera headline, sottotitoli e CTA per landing page in varianti A/B con razional
 
 ---
 
-## 📊 Statistiche
+## Statistiche
 
 <p align="center">
   <img alt="Stelle totali ricevute" src="https://img.shields.io/github/stars/simiriva95?affiliations=OWNER&style=for-the-badge&label=stars&labelColor=0d1117&color=FF6EC7&logo=github&logoColor=white" />
