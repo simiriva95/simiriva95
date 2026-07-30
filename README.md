@@ -13,7 +13,7 @@ design system scalabili e performance percepita.
 
 <p align="center">
   <a href="https://www.simoneriva.it"><img alt="Portfolio: simoneriva.it" src="https://img.shields.io/badge/Portfolio-simoneriva.it-FF6EC7?style=flat-square&labelColor=1c1c1c&logo=safari&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/simiriva95"><img alt="LinkedIn: simiriva95" src="https://img.shields.io/badge/LinkedIn-simiriva95-0A66C2?style=flat-square&labelColor=1c1c1c&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/simone-riva-44a873411/"><img alt="LinkedIn: Simone Riva" src="https://img.shields.io/badge/LinkedIn-Simone%20Riva-0A66C2?style=flat-square&labelColor=1c1c1c&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:simone@simoneriva.it"><img alt="Email: simone@simoneriva.it" src="https://img.shields.io/badge/Email-simone@simoneriva.it-A855F7?style=flat-square&labelColor=1c1c1c&logo=protonmail&logoColor=white" /></a>
 </p>
 
@@ -65,11 +65,9 @@ Un'interfaccia ben fatta è invisibile quando funziona, e memorabile quando non 
 ## Statistiche
 
 <p align="center">
-  <img width="450" alt="Statistiche GitHub di Simone Riva" src="https://github-readme-stats.vercel.app/api?username=simiriva95&show_icons=true&hide_border=true&count_private=true&rank_icon=github&card_width=450&bg_color=00000000&title_color=FF6EC7&icon_color=A855F7&text_color=8B949E" />
-</p>
-
-<p align="center">
-  <img width="450" alt="Linguaggi più usati da Simone Riva" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simiriva95&layout=compact&langs_count=8&hide_border=true&card_width=450&bg_color=00000000&title_color=FF6EC7&text_color=8B949E" />
+  <img alt="Stelle totali ricevute" src="https://img.shields.io/github/stars/simiriva95?affiliations=OWNER&style=flat-square&label=stars&labelColor=1c1c1c&color=FF6EC7&logo=github&logoColor=white" />
+  <img alt="Follower su GitHub" src="https://img.shields.io/github/followers/simiriva95?style=flat-square&label=followers&labelColor=1c1c1c&color=A855F7&logo=github&logoColor=white" />
+  <img alt="Visite al profilo" src="https://komarev.com/ghpvc/?username=simiriva95&color=ff6ec7&style=flat-square&label=visitors" />
 </p>
 
 ---
@@ -82,8 +80,4 @@ Retro gaming, chitarra, lingua giapponese.
 
 <p align="center">
   <code>always shipping · always learning</code>
-</p>
-
-<p align="center">
-  <img alt="Visite al profilo" src="https://komarev.com/ghpvc/?username=simiriva95&color=ff6ec7&style=flat-square&label=visitors" />
 </p>
