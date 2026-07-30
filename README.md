@@ -68,6 +68,15 @@ const simone: Developer = {
 
 ## Progetti
 
+> [!IMPORTANT]
+> **Il lavoro di cui vado più fiero non è qui.** Sviluppo prodotti per
+> aziende: il codice che va in produzione resta di proprietà del
+> committente e non è pubblicabile. Vale anche per due piattaforme
+> che ho costruito su commessa per clienti.
+>
+> Quelli che seguono sono i progetti che porto avanti per conto mio.
+> Del resto posso parlarti volentieri — [scrivimi](mailto:simone@simoneriva.it).
+
 ### <img width="22" alt="" src="assets/logos/snapkit.png" /> [snapkit](https://github.com/simiriva95/snapkit)
 
 <img alt="Progetto in vetrina" src="https://img.shields.io/badge/%E2%98%85-in%20vetrina-FF6EC7?style=flat-square&labelColor=0d1117" />
