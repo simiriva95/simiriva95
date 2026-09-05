@@ -94,6 +94,37 @@ const simone: Developer = {
 
 Developer-first screenshot tool with local auto-redaction of secrets. Capture, annotate, redact, record — nothing ever leaves your device.
 
+### <img width="22" alt="" src="assets/logos/sirocco.png" /> [sirocco](https://github.com/simiriva95/sirocco)
+
+<p>
+  <img alt="Stars" src="https://img.shields.io/github/stars/simiriva95/sirocco?style=flat-square&labelColor=0d1117&color=FF6EC7&logo=github&logoColor=white" />
+  <img alt="Language" src="https://img.shields.io/github/languages/top/simiriva95/sirocco?style=flat-square&labelColor=0d1117&color=A855F7" />
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/simiriva95/sirocco?style=flat-square&labelColor=0d1117&color=4FC08D" />
+</p>
+
+System monitor and task manager for macOS: Windows-Task-Manager coverage with the conventions of a modern Mac app. Hot Mac? Know why and stop it.
+
+### <img width="22" alt="" src="assets/logos/volumesplice.png" /> [volumesplice](https://github.com/simiriva95/volumesplice)
+
+<p>
+  <img alt="Stars" src="https://img.shields.io/github/stars/simiriva95/volumesplice?style=flat-square&labelColor=0d1117&color=FF6EC7&logo=github&logoColor=white" />
+  <img alt="Language" src="https://img.shields.io/github/languages/top/simiriva95/volumesplice?style=flat-square&labelColor=0d1117&color=A855F7" />
+  <img alt="License" src="https://img.shields.io/github/license/simiriva95/volumesplice?style=flat-square&labelColor=0d1117&color=8B949E" />
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/simiriva95/volumesplice?style=flat-square&labelColor=0d1117&color=4FC08D" />
+</p>
+
+Per-app volume mixer for the macOS menu bar: slider, level meter, mute and routing per application. No kernel extension, HAL driver, sudo or installer.
+
+### <img width="22" alt="" src="assets/logos/tasti.png" /> [tasti](https://github.com/simiriva95/tasti)
+
+<p>
+  <img alt="Stars" src="https://img.shields.io/github/stars/simiriva95/tasti?style=flat-square&labelColor=0d1117&color=FF6EC7&logo=github&logoColor=white" />
+  <img alt="Language" src="https://img.shields.io/github/languages/top/simiriva95/tasti?style=flat-square&labelColor=0d1117&color=A855F7" />
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/simiriva95/tasti?style=flat-square&labelColor=0d1117&color=4FC08D" />
+</p>
+
+Drop in a MIDI file, a MusicXML score or a PDF and see exactly which piano keys to press. Piano roll onto a real 88-key keyboard, chords named, Audiveris OMR for scans and photos.
+
 ### <img width="22" alt="" src="assets/logos/mdm.png" /> [mdm](https://github.com/simiriva95/mdm)
 
 <p>
@@ -102,7 +133,7 @@ Developer-first screenshot tool with local auto-redaction of secrets. Capture, a
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/simiriva95/mdm?style=flat-square&labelColor=0d1117&color=4FC08D" />
 </p>
 
-Small configurable downloader written in Rust. Minimal and single-purpose.
+Single-binary Rust download manager for Windows. Hijacks large Chrome downloads and pulls them over up to 16 parallel HTTP Range connections, with crash-proof resume.
 
 ### <img width="22" alt="" src="assets/logos/accessibility-auditor.png" /> [accessibility-auditor](https://github.com/simiriva95/accessibility-auditor)
 
@@ -143,9 +174,18 @@ Generates headlines, subheads and CTAs for landing pages as A/B variants, with U
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/simiriva95/keywriter?style=flat-square&labelColor=0d1117&color=4FC08D" />
 </p>
 
-<!-- TODO: description. This repo has none on GitHub, so I didn't invent
-     one. Add it to the repo's "Description" field too: it feeds social
-     previews and GitHub search. Keep it in sync with README.md. -->
+A typing game that runs on the Italian railway network: type each stop and the train moves down the line. 30 real lines, 454 stations, no backend.
+
+### <img width="22" alt="" src="assets/logos/EspressoMacchiato.png" /> [EspressoMacchiato](https://github.com/simiriva95/EspressoMacchiato)
+
+<p>
+  <img alt="Stars" src="https://img.shields.io/github/stars/simiriva95/EspressoMacchiato?style=flat-square&labelColor=0d1117&color=FF6EC7&logo=github&logoColor=white" />
+  <img alt="Language" src="https://img.shields.io/github/languages/top/simiriva95/EspressoMacchiato?style=flat-square&labelColor=0d1117&color=A855F7" />
+  <img alt="License" src="https://img.shields.io/github/license/simiriva95/EspressoMacchiato?style=flat-square&labelColor=0d1117&color=8B949E" />
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/simiriva95/EspressoMacchiato?style=flat-square&labelColor=0d1117&color=4FC08D" />
+</p>
+
+Keep your machine awake and present — a macOS/Linux menu-bar app that resets the OS idle counter so Teams stays green, plus a local energy dashboard. 100% local, zero telemetry, MIT.
 
 ---
 

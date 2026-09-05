@@ -94,6 +94,37 @@ const simone: Developer = {
 
 Screenshot tool developer-first con auto-redaction locale dei secrets. Cattura, annota, reda, registra — niente lascia mai il dispositivo.
 
+### <img width="22" alt="" src="assets/logos/sirocco.png" /> [sirocco](https://github.com/simiriva95/sirocco)
+
+<p>
+  <img alt="Stelle" src="https://img.shields.io/github/stars/simiriva95/sirocco?style=flat-square&labelColor=0d1117&color=FF6EC7&logo=github&logoColor=white" />
+  <img alt="Linguaggio" src="https://img.shields.io/github/languages/top/simiriva95/sirocco?style=flat-square&labelColor=0d1117&color=A855F7" />
+  <img alt="Ultimo commit" src="https://img.shields.io/github/last-commit/simiriva95/sirocco?style=flat-square&labelColor=0d1117&color=4FC08D" />
+</p>
+
+Monitor di sistema e task manager per macOS: la copertura del Task Manager di Windows con le convenzioni di una Mac app moderna. Il Mac scalda? Capisci perché e fermalo.
+
+### <img width="22" alt="" src="assets/logos/volumesplice.png" /> [volumesplice](https://github.com/simiriva95/volumesplice)
+
+<p>
+  <img alt="Stelle" src="https://img.shields.io/github/stars/simiriva95/volumesplice?style=flat-square&labelColor=0d1117&color=FF6EC7&logo=github&logoColor=white" />
+  <img alt="Linguaggio" src="https://img.shields.io/github/languages/top/simiriva95/volumesplice?style=flat-square&labelColor=0d1117&color=A855F7" />
+  <img alt="Licenza" src="https://img.shields.io/github/license/simiriva95/volumesplice?style=flat-square&labelColor=0d1117&color=8B949E" />
+  <img alt="Ultimo commit" src="https://img.shields.io/github/last-commit/simiriva95/volumesplice?style=flat-square&labelColor=0d1117&color=4FC08D" />
+</p>
+
+Mixer di volume per singola app nella menu bar di macOS: slider, meter, mute e routing per ogni applicazione. Niente kernel extension, driver HAL, sudo o installer.
+
+### <img width="22" alt="" src="assets/logos/tasti.png" /> [tasti](https://github.com/simiriva95/tasti)
+
+<p>
+  <img alt="Stelle" src="https://img.shields.io/github/stars/simiriva95/tasti?style=flat-square&labelColor=0d1117&color=FF6EC7&logo=github&logoColor=white" />
+  <img alt="Linguaggio" src="https://img.shields.io/github/languages/top/simiriva95/tasti?style=flat-square&labelColor=0d1117&color=A855F7" />
+  <img alt="Ultimo commit" src="https://img.shields.io/github/last-commit/simiriva95/tasti?style=flat-square&labelColor=0d1117&color=4FC08D" />
+</p>
+
+Carica un MIDI, uno spartito MusicXML o un PDF e vedi esattamente quali tasti del pianoforte premere. Piano roll su una tastiera reale a 88 tasti, accordi riconosciuti, OMR Audiveris per scansioni e foto.
+
 ### <img width="22" alt="" src="assets/logos/mdm.png" /> [mdm](https://github.com/simiriva95/mdm)
 
 <p>
@@ -102,10 +133,7 @@ Screenshot tool developer-first con auto-redaction locale dei secrets. Cattura, 
   <img alt="Ultimo commit" src="https://img.shields.io/github/last-commit/simiriva95/mdm?style=flat-square&labelColor=0d1117&color=4FC08D" />
 </p>
 
-Mini downloader configurabile, scritto in Rust. Piccolo e single-purpose.
-
-<!-- Per il campo "Description" del repo su GitHub (in inglese, come snapkit e orbit):
-     Small configurable downloader written in Rust. -->
+Download manager per Windows in un unico binario Rust: intercetta i download grandi di Chrome e li scarica su fino a 16 connessioni HTTP Range parallele, con ripresa a prova di crash.
 
 ### <img width="22" alt="" src="assets/logos/accessibility-auditor.png" /> [accessibility-auditor](https://github.com/simiriva95/accessibility-auditor)
 
@@ -146,9 +174,18 @@ Genera headline, sottotitoli e CTA per landing page in varianti A/B con razional
   <img alt="Ultimo commit" src="https://img.shields.io/github/last-commit/simiriva95/keywriter?style=flat-square&labelColor=0d1117&color=4FC08D" />
 </p>
 
-<!-- TODO: descrizione. Su GitHub questo repo non ne ha, quindi non
-     l'ho inventata io. Mettila anche nel campo "Description" del
-     repo: alimenta i social preview e la ricerca di GitHub. -->
+Un typing game sulla rete ferroviaria italiana: scrivi ogni fermata e il treno avanza lungo la linea. 30 linee reali, 454 stazioni, nessun backend.
+
+### <img width="22" alt="" src="assets/logos/EspressoMacchiato.png" /> [EspressoMacchiato](https://github.com/simiriva95/EspressoMacchiato)
+
+<p>
+  <img alt="Stelle" src="https://img.shields.io/github/stars/simiriva95/EspressoMacchiato?style=flat-square&labelColor=0d1117&color=FF6EC7&logo=github&logoColor=white" />
+  <img alt="Linguaggio" src="https://img.shields.io/github/languages/top/simiriva95/EspressoMacchiato?style=flat-square&labelColor=0d1117&color=A855F7" />
+  <img alt="Licenza" src="https://img.shields.io/github/license/simiriva95/EspressoMacchiato?style=flat-square&labelColor=0d1117&color=8B949E" />
+  <img alt="Ultimo commit" src="https://img.shields.io/github/last-commit/simiriva95/EspressoMacchiato?style=flat-square&labelColor=0d1117&color=4FC08D" />
+</p>
+
+Tieni il Mac sveglio e «presente»: app da menu bar per macOS/Linux che azzera il contatore di inattività del sistema così Teams resta verde, più una dashboard energetica locale. 100% locale, zero telemetria, MIT.
 
 ---
 
