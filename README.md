@@ -185,7 +185,7 @@ Un typing game sulla rete ferroviaria italiana: scrivi ogni fermata e il treno a
   <img alt="Ultimo commit" src="https://img.shields.io/github/last-commit/simiriva95/EspressoMacchiato?style=flat-square&labelColor=0d1117&color=4FC08D" />
 </p>
 
-Tieni il Mac sveglio e «presente»: app da menu bar per macOS/Linux che azzera il contatore di inattività del sistema così Teams resta verde, più una dashboard energetica locale. 100% locale, zero telemetria, MIT.
+Tieni il Mac sveglio e «presente»: app da menu bar per macOS/Linux che azzera il contatore di inattività del sistema, più una dashboard energetica locale. 100% locale, zero telemetria, MIT.
 
 ---
 
