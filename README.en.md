@@ -185,7 +185,7 @@ A typing game that runs on the Italian railway network: type each stop and the t
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/simiriva95/EspressoMacchiato?style=flat-square&labelColor=0d1117&color=4FC08D" />
 </p>
 
-Keep your machine awake and present — a macOS/Linux menu-bar app that resets the OS idle counter so Teams stays green, plus a local energy dashboard. 100% local, zero telemetry, MIT.
+Keep your machine awake and present — a macOS/Linux menu-bar app that resets the OS idle counter, plus a local energy dashboard. 100% local, zero telemetry, MIT.
 
 ---
 
